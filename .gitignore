@@ -1,3 +1,12 @@
+.vs/
+Win-Debloater/x32/
+Win-Debloater/x64/
+x32/
+x64/
+Win-Debloater/Win-Debloater.vcxproj
+Win-Debloater/Win-Debloater.vcxproj.filters
+Win-Debloater/Win-Debloater.vcxproj.user
+
 # Prerequisites
 *.d
 
